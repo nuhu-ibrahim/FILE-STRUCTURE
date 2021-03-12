@@ -12,7 +12,7 @@ You can run this application by first navigating into the root directory, i.e. F
 ```
 	php -S localhost:<PORT>
 ```
-The <PORT> can be any of your choice.
+The PORT can be any of your choice.
 ## About the Text File With Directories
 The db folder contains a file with name "fstructure.txt" and this file is supposed to contain the well formatted text that will be read and fed into the database for subsequest search.
 
