@@ -7,7 +7,12 @@ To do this run the code below:
 ```
 ### Create a Database and Import the Database File
 The relational database designed for the purpose of this exercise can be found in the db folder. The name of the file is "folder_structure.sql" and it basically contains a single table named paths. You will have to create a database of your choice, import the table in this file and configure the database information in the .env file.
-
+### Executing the Applcation
+You can run this application by first navigating into the root directory, i.e. FILE-STRUCTURE, and then executing the command below:
+```
+	php -S localhost:<PORT>
+```
+The <PORT> can be any of your choice.
 ## About the Text File With Directories
 The db folder contains a file with name "fstructure.txt" and this file is supposed to contain the well formatted text that will be read and fed into the database for subsequest search.
 
