@@ -1,5 +1,5 @@
 ## The Database
-The relational database designed for the purpose of this exercise can be found in the db folder. It basically contains a single table named paths.
+The relational database designed for the purpose of this exercise can be found in the db folder. The name of the file si "folder_structure.sql" and it basically contains a single table named paths. You will have to create a database of your choice, import the table in this file and configure the database information in the .env file.
 
 ## About the Text File With Directories
 The db folder contains a file with name "fstructure.txt" and this file is supposed to contain the well formatted text that will be read and fed into the database for subsequest search.
